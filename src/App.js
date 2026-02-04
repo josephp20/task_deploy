@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
-import TaskForm from './taskForm';
+import TaskForm from './TaskForm';
 import CreateTask from './CreateTask';
 import EditTask from './EditTask';
 import ViewTask from './ViewTask';
