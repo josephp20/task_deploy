@@ -16,8 +16,6 @@ import LoginUser from './login/LoginUser';
 
 
 import './App.css';
-import { FaPlus, FaTrash, FaEdit } from "react-icons/fa";
-
 
 function App() {
   return (
